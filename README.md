@@ -1,4 +1,4 @@
-# 🔥 Smart Fire Detection and Alert System
+# 🔥 Smart Fire Detection, Response and Alert System
 
 An Arduino-based intelligent fire detection system that monitors temperature and smoke levels, providing real-time alerts and automated response mechanisms for fire emergencies.
 
