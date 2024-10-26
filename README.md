@@ -31,6 +31,10 @@ An Arduino-based intelligent fire detection system that monitors temperature and
 
 ![Circuit Diagram](images/iotproject.png)
 
+## Block Diagram
+
+![Circuit Diagram](images/blockdiagram.png)
+
 ## 💡 How It Works
 
 1. **Temperature and Smoke Detection**: The system uses the DHT11 sensor to measure temperature and the MQ2 sensor to detect smoke levels.
