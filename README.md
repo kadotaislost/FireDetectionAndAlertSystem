@@ -29,7 +29,7 @@ An Arduino-based intelligent fire detection system that monitors temperature and
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/iotproject.png)
 
 ## 💡 How It Works
 
