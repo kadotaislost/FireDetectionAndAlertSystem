@@ -43,4 +43,4 @@ An Arduino-based intelligent fire detection system that monitors temperature and
    - The water pump is powered on intermittently to spray water and reduce fire risk.
    - An SMS alert is sent to a specified number via the SIM800L module.
 3. **LCD Display**: The LCD shows the current system status and displays temperature and smoke levels.
-4. **Relay Control**: The relays are used to control the water pump and additional motor for potential fire extinguishing actions.
+4. **Relay Control**: The relays are used to control the water pump and exhaust fan for potential fire extinguishing actions.

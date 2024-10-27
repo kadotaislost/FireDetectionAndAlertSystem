@@ -102,7 +102,7 @@ void activateFireAlert() {
   digitalWrite(RED_LED, HIGH);
   digitalWrite(GREEN_LED, LOW);
   digitalWrite(BUZZER, HIGH);
-  digitalWrite(MOTOR1, LOW); // Optional: If you have another motor to control
+  digitalWrite(MOTOR1, LOW); 
 
   // Control submersible water pump (MOTOR2)
   for (int i = 0; i < 4; i++) {  // Adjust the number of cycles as needed
