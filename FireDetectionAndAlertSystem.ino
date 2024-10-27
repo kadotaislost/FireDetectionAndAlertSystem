@@ -105,7 +105,7 @@ void activateFireAlert() {
   digitalWrite(MOTOR1, LOW); 
 
   // Control submersible water pump (MOTOR2)
-  for (int i = 0; i < 4; i++) {  // Adjust the number of cycles as needed
+  for (int i = 0; i < 4; i++) {  // Run the pump for 8 seconds
     digitalWrite(MOTOR2, LOW);    // Turn on the pump
     delay(200);                   // Pump runs for 2 seconds 
     digitalWrite(MOTOR2, HIGH);   // Turn off the pump
